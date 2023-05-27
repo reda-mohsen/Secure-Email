@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 import socket
 import time
 from Cryptodome.Cipher import AES
-import os, random, struct
+import os
 from Encrypt_and_Decrypt import encrypt_file
 
 

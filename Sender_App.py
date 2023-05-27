@@ -12,7 +12,7 @@ from Encrypt_and_Decrypt import encrypt_file
 
 
 class App:
-    sender = "18P5141@eng.asu.edu.eg"
+    sender = "18PXXXX@eng.asu.edu.eg"
     password = "XXXXXXXX"   # Enter password before run
     tovar = ""
     Sender_Encrypted_Session_Key = ""
